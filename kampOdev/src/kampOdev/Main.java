@@ -24,6 +24,7 @@ public class Main {
 		ButtonManager buttonManager = new ButtonManager();
 		
 		buttonManager.submitButton();
+		
 		buttonManager.nextButton();
 		buttonManager.previousButton();
 
