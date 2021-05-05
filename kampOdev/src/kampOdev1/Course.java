@@ -1,4 +1,4 @@
-package kampOdev;
+package kampOdev1;
 
 public class Course {
 	
